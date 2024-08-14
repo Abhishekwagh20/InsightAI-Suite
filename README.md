@@ -90,10 +90,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Screenshots
 
-![InsightAI Main Interface](Output/Screenshot 2024-08-14 134627.png)
-!(Output/Screenshot 2024-08-14 134745.png)
-!(Output/Screenshot 2024-08-14 134804.png)
-!(Output/Screenshot 2024-08-14 135020.png)
 
